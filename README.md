@@ -24,7 +24,7 @@
 
 **项目源码**
 
-https://ylm3112370004.github.io/CV/， 点击查看效果预览
+https://ylm3112370004.github.io/CV/README.md  点击查看效果预览
 
 
 ## 个人评价
